@@ -76,4 +76,7 @@
 // If YES, the badge will be hidden when the value is 0
 @property (nonatomic) BOOL hideWhenZero;
 
+// The stroke size to be used for drawing the stroke around the badge.
+@property (nonatomic) float strokeSize;
+
 @end
